@@ -1,0 +1,25 @@
+SgDescription,SgName,SgGroupId
+AMS Axtract BE Security Group,SgAmsAxtractBe,sg-20942e47
+Axiros BE Security Group,SgAxirosBe,sg-2f942e48
+Axiros DB Security Group,SgAxirosDb,sg-2c942e4b
+Axiros FE Security Group,SgAxirosFe,sg-2b942e4c
+Axiros Management Security Group,SgAxirosMgmt,sg-2a942e4d
+Axiros Notification Security Group,SgAxirosNotification,sg-28942e4f
+Cassandra Security Group,SgCassandra,sg-37942e50
+DB Access Security Group,SgDbAccess,sg-35942e52
+FTP SG,SgFtp,sg-33942e54
+Liberty Global - MES BE Security Group,SgMesBe,sg-31942e56
+Liberty Global - MES FE Security Group,SgMesFe,sg-30942e57
+MAP BE Security Group,SgMapBe,sg-3f942e58
+MAP Fuse Security Group,SgMapFuse,sg-3c942e5b
+MAP Management Security Group,SgMapMgmt,sg-3a942e5d
+RENG DB Security Group,SgRengDb,sg-38942e5f
+RENG Management Security Group,SgRengMgmt,sg-04942e63
+RENG Reporting Security Group,SgRengReporting,sg-02942e65
+RENG Security Group,SgReng,sg-01942e66
+Seachange DB Security Group,SgSeacDb,sg-00942e67
+Seachange Management Security Group,SgSeacMgmt,sg-0e942e69
+Seachange Monitoring Security Group,SgSeacMonitoring,sg-0d942e6a
+Secure Perimeter Security Group,SgSecurePerimeter,sg-0a942e6d
+Stagis Security Group,SgStagis,sg-09942e6e
+Traxis FE Security Group,SgTraxisFe,sg-08942e6f
